@@ -1,0 +1,26 @@
+.col img{
+    float: right ;
+    width: 100%;
+    margin-left: 5px;
+    border-radius: 5px;
+    border: 2px dotted black;
+    padding: 5px;
+    }
+h1{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+footer{
+    min-height: 200px;
+    background-color: rgb(9, 221, 62);
+    clear: left;
+    text-align: center;
+}
